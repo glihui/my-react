@@ -7,6 +7,7 @@ import './index.css';
      products: [
        { name: 'dva', id: 1 },
        { name: 'antd', id: 2 },
+       { name: 'react', id: 3 },
      ],
    },
  });
